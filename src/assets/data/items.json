@@ -1,0 +1,7 @@
+[
+  { "id": "gel", "name": "Slime Gel", "rarity": "common" },
+  { "id": "fur", "name": "Wolf Fur", "rarity": "common" },
+  { "id": "bone", "name": "Wolf Bone", "rarity": "uncommon" },
+  { "id": "boar_tusk", "name": "Boar Tusk", "rarity": "rare" },
+  { "id": "rare_gem", "name": "Rare Gem", "rarity": "epic" }
+]

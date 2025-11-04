@@ -1,0 +1,5 @@
+[
+  { "id": "bash", "name": "Shield Bash", "power": 1.2, "cool": 3, "role": "tank" },
+  { "id": "backstab", "name": "Backstab", "power": 1.8, "cool": 5, "role": "dps" },
+  { "id": "heal", "name": "Heal", "power": 1.5, "cool": 4, "role": "healer" }
+]

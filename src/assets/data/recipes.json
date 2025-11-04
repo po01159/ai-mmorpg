@@ -1,0 +1,4 @@
+[
+  { "out": "iron_sword", "mats": [["bone", 2], ["fur", 1]], "success": 0.8 },
+  { "out": "boar_blade", "mats": [["boar_tusk", 2], ["rare_gem", 1]], "success": 0.4 }
+]

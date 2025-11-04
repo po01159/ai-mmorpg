@@ -1,0 +1,13 @@
+[
+  {
+    "id": "boar_king",
+    "name": "Boar King",
+    "hp": 2000,
+    "atk": 60,
+    "phases": [
+      { "hpPct": 1.0, "pattern": ["charge", "stomp", "idle"] },
+      { "hpPct": 0.5, "pattern": ["roar_enrage", "charge", "charge", "stomp"] }
+    ],
+    "drops": [["boar_tusk", 1.0], ["rare_gem", 0.05]]
+  }
+]
